@@ -2,7 +2,8 @@
 This is a nearly fully 3D printed conveyor belt.
 It requires 
 - Nema 42mm stepper motor, 
-- Stepper motor, an Arduino, 
+- Stepper motor driver, 
+- Arduino, 
 - Potentiometer and 
 - 5mm LED 
 as electronics
