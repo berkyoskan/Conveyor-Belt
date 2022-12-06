@@ -18,5 +18,5 @@ Here are some renders:
 ![](images/conveyor1.png)
 
 Here are some real pictures of the conveyor:
-![](images/conveyor 1.png)
-![](images/conveyor 1.png)
+![](images/conveyorreal.png)
+![](images/conveyorreal2.png)
