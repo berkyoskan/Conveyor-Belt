@@ -12,9 +12,9 @@ All the printed parts required for this project is provided under the related fo
 Code of the project is also provided under the related section.
 
 Here are some renders:
-![](images/conveyor1.png)
-![](images/conveyor2.png)
 ![](images/conveyor3.png)
+![](images/conveyor2.png)
+![](images/conveyor1.png)
 
 Here are some real pictures of the conveyor:
 ![](images/conveyor 1.png)
