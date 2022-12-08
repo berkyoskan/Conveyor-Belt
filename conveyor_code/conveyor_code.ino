@@ -1,6 +1,6 @@
 /*
   This has been coded by Berk Yozkan to run simple tasks over a basic conveyor belt.
-  To find out more about the project check the github page: https://github.com/users/berkyoskan/projects/3
+  To find out more about the project check the github page: https://github.com/berkyoskan/Conveyor-Belt
   This code is in the public domain.
 */
 #define pot A0 //Defining the pin for potentiometer
